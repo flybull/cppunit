@@ -1,7 +1,7 @@
 # cppunit
 
 #### intro
-1.define and construct imcp:demo variable  
+1.define and construct imcp::demo variable  
 2.compile test files with main.cpp  
 3.run  
 
